@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProductDescriptionFragment">
+
+    <TextView
+        android:id="@+id/tv_product_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:textColor="#000"
+        android:text="Bruno is a proactive software engineer at yapsody. He is a JavaScript enthusiast and loves working with open source communities. He possesses around 6 years of experience in software development,
+         of which 4 years were dedicated to working on JS technologies. Bruno follows kaizen and enjoys the freedom of architecting new things. He is socially active via coaching web technologies or participating in
+         other research projects and meetups. When not coding, Bruno likes to spend time with his guitar, family, and friends." />
+</FrameLayout>
